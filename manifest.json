@@ -1,0 +1,21 @@
+{
+    "name": "Genevieve Peh — Portfolio",
+    "short_name": "Genpxy",
+    "description": "Personal portfolio of Genevieve Peh — Global Business and Business & Technology",
+    "start_url": "/genpxy-CVportfolio/index.html",
+    "display": "standalone",
+    "background_color": "#FAF7F2",
+    "theme_color": "#0F1729",
+    "icons": [
+        {
+            "src": "image/icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "image/icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
