@@ -264,11 +264,6 @@ nav{flex:1;}
 }
 
 
-.statbox:hover {
-    transform: translateY(-3px);
-    border-color: var(--gold);
-}
-
 .stat-num{
     font-family:var(--serif);
     font-size:1.8rem;
