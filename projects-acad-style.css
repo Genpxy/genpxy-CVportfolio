@@ -279,9 +279,13 @@ nav{flex:1;}
 
 .proj-link{
     text-decoration: underline;
-    color: var(--navy);
+    color: var(--gold);
     font-weight: bold;
 
+}
+
+.proj-link:hover{
+    color: #9A7B44;
 }
 
 
